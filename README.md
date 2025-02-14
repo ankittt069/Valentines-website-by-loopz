@@ -1,2 +1,2 @@
-# Valentines-website-by-loopz
-valentines website code(html,css,js) for public use
+# invitation 
+invitation website code(html,css,js) for public use
